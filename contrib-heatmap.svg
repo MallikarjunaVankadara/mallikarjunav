@@ -1324,43 +1324,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.225s">
+    <title>2026-09-21: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="240"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.240s">
     <title>2025-09-23: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="240"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.240s">
+    style="animation-delay:0.255s">
     <title>2025-09-30: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="240"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.255s">
-    <title>2025-10-07: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="240"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.270s">
-    <title>2025-10-14: 0 contributions</title>
+    <title>2025-10-07: 0 contributions</title>
 </rect>
 
 <rect
@@ -1372,7 +1372,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.285s">
-    <title>2025-10-21: 0 contributions</title>
+    <title>2025-10-14: 0 contributions</title>
 </rect>
 
 <rect
@@ -1384,7 +1384,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.300s">
-    <title>2025-10-28: 0 contributions</title>
+    <title>2025-10-21: 0 contributions</title>
 </rect>
 
 <rect
@@ -1396,7 +1396,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.315s">
-    <title>2025-11-04: 0 contributions</title>
+    <title>2025-10-28: 0 contributions</title>
 </rect>
 
 <rect
@@ -1408,43 +1408,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.240s">
+    <title>2025-11-04: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="253"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.255s">
     <title>2025-11-11: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="253"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.255s">
+    style="animation-delay:0.270s">
     <title>2025-11-18: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="253"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.270s">
-    <title>2025-11-25: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="253"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.285s">
-    <title>2025-12-02: 0 contributions</title>
+    <title>2025-11-25: 0 contributions</title>
 </rect>
 
 <rect
@@ -1456,7 +1456,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.300s">
-    <title>2025-12-09: 0 contributions</title>
+    <title>2025-12-02: 0 contributions</title>
 </rect>
 
 <rect
@@ -1468,7 +1468,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.315s">
-    <title>2025-12-16: 0 contributions</title>
+    <title>2025-12-09: 0 contributions</title>
 </rect>
 
 <rect
@@ -1480,7 +1480,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.330s">
-    <title>2025-12-23: 0 contributions</title>
+    <title>2025-12-16: 0 contributions</title>
 </rect>
 
 <rect
@@ -1492,43 +1492,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.255s">
+    <title>2025-12-23: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="266"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.270s">
     <title>2025-12-30: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="266"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.270s">
+    style="animation-delay:0.285s">
     <title>2026-01-06: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="266"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.285s">
-    <title>2026-01-13: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="266"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.300s">
-    <title>2026-01-20: 0 contributions</title>
+    <title>2026-01-13: 0 contributions</title>
 </rect>
 
 <rect
@@ -1540,7 +1540,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.315s">
-    <title>2026-01-27: 0 contributions</title>
+    <title>2026-01-20: 0 contributions</title>
 </rect>
 
 <rect
@@ -1552,7 +1552,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.330s">
-    <title>2026-02-03: 0 contributions</title>
+    <title>2026-01-27: 0 contributions</title>
 </rect>
 
 <rect
@@ -1564,7 +1564,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.345s">
-    <title>2026-02-10: 0 contributions</title>
+    <title>2026-02-03: 0 contributions</title>
 </rect>
 
 <rect
@@ -1576,43 +1576,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.270s">
+    <title>2026-02-10: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="279"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.285s">
     <title>2026-02-17: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="279"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.285s">
+    style="animation-delay:0.300s">
     <title>2026-02-24: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="279"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.300s">
-    <title>2026-03-03: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="279"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.315s">
-    <title>2026-03-10: 0 contributions</title>
+    <title>2026-03-03: 0 contributions</title>
 </rect>
 
 <rect
@@ -1624,7 +1624,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.330s">
-    <title>2026-03-17: 0 contributions</title>
+    <title>2026-03-10: 0 contributions</title>
 </rect>
 
 <rect
@@ -1636,7 +1636,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.345s">
-    <title>2026-03-24: 0 contributions</title>
+    <title>2026-03-17: 0 contributions</title>
 </rect>
 
 <rect
@@ -1648,7 +1648,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.360s">
-    <title>2026-03-31: 0 contributions</title>
+    <title>2026-03-24: 0 contributions</title>
 </rect>
 
 <rect
@@ -1660,43 +1660,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.285s">
+    <title>2026-03-31: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="292"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.300s">
     <title>2026-04-07: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="292"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.300s">
+    style="animation-delay:0.315s">
     <title>2026-04-14: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="292"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.315s">
-    <title>2026-04-21: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="292"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.330s">
-    <title>2026-04-28: 0 contributions</title>
+    <title>2026-04-21: 0 contributions</title>
 </rect>
 
 <rect
@@ -1708,7 +1708,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.345s">
-    <title>2026-05-05: 0 contributions</title>
+    <title>2026-04-28: 0 contributions</title>
 </rect>
 
 <rect
@@ -1720,7 +1720,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.360s">
-    <title>2026-05-12: 0 contributions</title>
+    <title>2026-05-05: 0 contributions</title>
 </rect>
 
 <rect
@@ -1732,7 +1732,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.375s">
-    <title>2026-05-19: 0 contributions</title>
+    <title>2026-05-12: 0 contributions</title>
 </rect>
 
 <rect
@@ -1744,43 +1744,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.300s">
+    <title>2026-05-19: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="305"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.315s">
     <title>2026-05-26: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="305"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.315s">
+    style="animation-delay:0.330s">
     <title>2026-06-02: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="305"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.330s">
-    <title>2026-06-09: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="305"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.345s">
-    <title>2026-06-16: 0 contributions</title>
+    <title>2026-06-09: 0 contributions</title>
 </rect>
 
 <rect
@@ -1792,7 +1792,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.360s">
-    <title>2026-06-23: 0 contributions</title>
+    <title>2026-06-16: 0 contributions</title>
 </rect>
 
 <rect
@@ -1804,7 +1804,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.375s">
-    <title>2026-06-30: 0 contributions</title>
+    <title>2026-06-23: 0 contributions</title>
 </rect>
 
 <rect
@@ -1816,7 +1816,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.390s">
-    <title>2026-07-07: 0 contributions</title>
+    <title>2026-06-30: 0 contributions</title>
 </rect>
 
 <rect
@@ -1828,43 +1828,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.315s">
+    <title>2026-07-07: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="318"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.330s">
     <title>2026-07-14: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="318"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.330s">
+    style="animation-delay:0.345s">
     <title>2026-07-21: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="318"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.345s">
-    <title>2026-07-28: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="318"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.360s">
-    <title>2026-08-04: 0 contributions</title>
+    <title>2026-07-28: 0 contributions</title>
 </rect>
 
 <rect
@@ -1876,7 +1876,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.375s">
-    <title>2026-08-11: 0 contributions</title>
+    <title>2026-08-04: 0 contributions</title>
 </rect>
 
 <rect
@@ -1888,7 +1888,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.390s">
-    <title>2026-08-18: 0 contributions</title>
+    <title>2026-08-11: 0 contributions</title>
 </rect>
 
 <rect
@@ -1900,7 +1900,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.405s">
-    <title>2026-08-25: 0 contributions</title>
+    <title>2026-08-18: 0 contributions</title>
 </rect>
 
 <rect
@@ -1912,43 +1912,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.330s">
+    <title>2026-08-25: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="331"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.345s">
     <title>2026-09-01: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="331"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.345s">
+    style="animation-delay:0.360s">
     <title>2026-09-08: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="331"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.360s">
-    <title>2026-09-15: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="331"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.375s">
-    <title>2025-09-24: 0 contributions</title>
+    <title>2026-09-15: 0 contributions</title>
 </rect>
 
 <rect
@@ -1960,7 +1960,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.390s">
-    <title>2025-10-01: 0 contributions</title>
+    <title>2025-09-24: 0 contributions</title>
 </rect>
 
 <rect
@@ -1972,7 +1972,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.405s">
-    <title>2025-10-08: 0 contributions</title>
+    <title>2025-10-01: 0 contributions</title>
 </rect>
 
 <rect
@@ -1984,7 +1984,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.420s">
-    <title>2025-10-15: 0 contributions</title>
+    <title>2025-10-08: 0 contributions</title>
 </rect>
 
 <rect
@@ -1996,43 +1996,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.345s">
+    <title>2025-10-15: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="344"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.360s">
     <title>2025-10-22: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="344"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.360s">
+    style="animation-delay:0.375s">
     <title>2025-10-29: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="344"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.375s">
-    <title>2025-11-05: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="344"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.390s">
-    <title>2025-11-12: 0 contributions</title>
+    <title>2025-11-05: 0 contributions</title>
 </rect>
 
 <rect
@@ -2044,7 +2044,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.405s">
-    <title>2025-11-19: 0 contributions</title>
+    <title>2025-11-12: 0 contributions</title>
 </rect>
 
 <rect
@@ -2056,7 +2056,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.420s">
-    <title>2025-11-26: 0 contributions</title>
+    <title>2025-11-19: 0 contributions</title>
 </rect>
 
 <rect
@@ -2068,7 +2068,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.435s">
-    <title>2025-12-03: 0 contributions</title>
+    <title>2025-11-26: 0 contributions</title>
 </rect>
 
 <rect
@@ -2080,43 +2080,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.360s">
+    <title>2025-12-03: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="357"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.375s">
     <title>2025-12-10: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="357"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.375s">
+    style="animation-delay:0.390s">
     <title>2025-12-17: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="357"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.390s">
-    <title>2025-12-24: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="357"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.405s">
-    <title>2025-12-31: 0 contributions</title>
+    <title>2025-12-24: 0 contributions</title>
 </rect>
 
 <rect
@@ -2128,7 +2128,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.420s">
-    <title>2026-01-07: 0 contributions</title>
+    <title>2025-12-31: 0 contributions</title>
 </rect>
 
 <rect
@@ -2140,7 +2140,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.435s">
-    <title>2026-01-14: 0 contributions</title>
+    <title>2026-01-07: 0 contributions</title>
 </rect>
 
 <rect
@@ -2152,7 +2152,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.450s">
-    <title>2026-01-21: 0 contributions</title>
+    <title>2026-01-14: 0 contributions</title>
 </rect>
 
 <rect
@@ -2164,43 +2164,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.375s">
+    <title>2026-01-21: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="370"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.390s">
     <title>2026-01-28: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="370"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.390s">
+    style="animation-delay:0.405s">
     <title>2026-02-04: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="370"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.405s">
-    <title>2026-02-11: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="370"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.420s">
-    <title>2026-02-18: 0 contributions</title>
+    <title>2026-02-11: 0 contributions</title>
 </rect>
 
 <rect
@@ -2212,7 +2212,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.435s">
-    <title>2026-02-25: 0 contributions</title>
+    <title>2026-02-18: 0 contributions</title>
 </rect>
 
 <rect
@@ -2224,7 +2224,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.450s">
-    <title>2026-03-04: 0 contributions</title>
+    <title>2026-02-25: 0 contributions</title>
 </rect>
 
 <rect
@@ -2236,7 +2236,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.465s">
-    <title>2026-03-11: 0 contributions</title>
+    <title>2026-03-04: 0 contributions</title>
 </rect>
 
 <rect
@@ -2248,43 +2248,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.390s">
+    <title>2026-03-11: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="383"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.405s">
     <title>2026-03-18: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="383"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.405s">
+    style="animation-delay:0.420s">
     <title>2026-03-25: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="383"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.420s">
-    <title>2026-04-01: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="383"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.435s">
-    <title>2026-04-08: 0 contributions</title>
+    <title>2026-04-01: 0 contributions</title>
 </rect>
 
 <rect
@@ -2296,7 +2296,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.450s">
-    <title>2026-04-15: 0 contributions</title>
+    <title>2026-04-08: 0 contributions</title>
 </rect>
 
 <rect
@@ -2308,7 +2308,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.465s">
-    <title>2026-04-22: 0 contributions</title>
+    <title>2026-04-15: 0 contributions</title>
 </rect>
 
 <rect
@@ -2320,7 +2320,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.480s">
-    <title>2026-04-29: 0 contributions</title>
+    <title>2026-04-22: 0 contributions</title>
 </rect>
 
 <rect
@@ -2332,43 +2332,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.405s">
+    <title>2026-04-29: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="396"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.420s">
     <title>2026-05-06: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="396"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.420s">
+    style="animation-delay:0.435s">
     <title>2026-05-13: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="396"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.435s">
-    <title>2026-05-20: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="396"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.450s">
-    <title>2026-05-27: 0 contributions</title>
+    <title>2026-05-20: 0 contributions</title>
 </rect>
 
 <rect
@@ -2380,7 +2380,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.465s">
-    <title>2026-06-03: 0 contributions</title>
+    <title>2026-05-27: 0 contributions</title>
 </rect>
 
 <rect
@@ -2392,7 +2392,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.480s">
-    <title>2026-06-10: 0 contributions</title>
+    <title>2026-06-03: 0 contributions</title>
 </rect>
 
 <rect
@@ -2404,7 +2404,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.495s">
-    <title>2026-06-17: 0 contributions</title>
+    <title>2026-06-10: 0 contributions</title>
 </rect>
 
 <rect
@@ -2416,43 +2416,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.420s">
+    <title>2026-06-17: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="409"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.435s">
     <title>2026-06-24: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="409"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.435s">
+    style="animation-delay:0.450s">
     <title>2026-07-01: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="409"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.450s">
-    <title>2026-07-08: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="409"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.465s">
-    <title>2026-07-15: 0 contributions</title>
+    <title>2026-07-08: 0 contributions</title>
 </rect>
 
 <rect
@@ -2464,7 +2464,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.480s">
-    <title>2026-07-22: 0 contributions</title>
+    <title>2026-07-15: 0 contributions</title>
 </rect>
 
 <rect
@@ -2476,7 +2476,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.495s">
-    <title>2026-07-29: 0 contributions</title>
+    <title>2026-07-22: 0 contributions</title>
 </rect>
 
 <rect
@@ -2488,7 +2488,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.510s">
-    <title>2026-08-05: 0 contributions</title>
+    <title>2026-07-29: 0 contributions</title>
 </rect>
 
 <rect
@@ -2500,43 +2500,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.435s">
+    <title>2026-08-05: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="422"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.450s">
     <title>2026-08-12: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="422"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.450s">
+    style="animation-delay:0.465s">
     <title>2026-08-19: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="422"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.465s">
-    <title>2026-08-26: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="422"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.480s">
-    <title>2026-09-02: 0 contributions</title>
+    <title>2026-08-26: 0 contributions</title>
 </rect>
 
 <rect
@@ -2548,7 +2548,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.495s">
-    <title>2026-09-09: 0 contributions</title>
+    <title>2026-09-02: 0 contributions</title>
 </rect>
 
 <rect
@@ -2560,7 +2560,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.510s">
-    <title>2026-09-16: 0 contributions</title>
+    <title>2026-09-09: 0 contributions</title>
 </rect>
 
 <rect
@@ -2572,7 +2572,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.525s">
-    <title>2025-09-25: 0 contributions</title>
+    <title>2026-09-16: 0 contributions</title>
 </rect>
 
 <rect
@@ -2584,43 +2584,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.450s">
+    <title>2025-09-25: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="435"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.465s">
     <title>2025-10-02: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="435"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.465s">
+    style="animation-delay:0.480s">
     <title>2025-10-09: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="435"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.480s">
-    <title>2025-10-16: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="435"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.495s">
-    <title>2025-10-23: 0 contributions</title>
+    <title>2025-10-16: 0 contributions</title>
 </rect>
 
 <rect
@@ -2632,7 +2632,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.510s">
-    <title>2025-10-30: 0 contributions</title>
+    <title>2025-10-23: 0 contributions</title>
 </rect>
 
 <rect
@@ -2644,7 +2644,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.525s">
-    <title>2025-11-06: 0 contributions</title>
+    <title>2025-10-30: 0 contributions</title>
 </rect>
 
 <rect
@@ -2656,7 +2656,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.540s">
-    <title>2025-11-13: 0 contributions</title>
+    <title>2025-11-06: 0 contributions</title>
 </rect>
 
 <rect
@@ -2668,43 +2668,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.465s">
+    <title>2025-11-13: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="448"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.480s">
     <title>2025-11-20: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="448"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.480s">
+    style="animation-delay:0.495s">
     <title>2025-11-27: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="448"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.495s">
-    <title>2025-12-04: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="448"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.510s">
-    <title>2025-12-11: 0 contributions</title>
+    <title>2025-12-04: 0 contributions</title>
 </rect>
 
 <rect
@@ -2716,7 +2716,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.525s">
-    <title>2025-12-18: 0 contributions</title>
+    <title>2025-12-11: 0 contributions</title>
 </rect>
 
 <rect
@@ -2728,7 +2728,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.540s">
-    <title>2025-12-25: 0 contributions</title>
+    <title>2025-12-18: 0 contributions</title>
 </rect>
 
 <rect
@@ -2740,7 +2740,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.555s">
-    <title>2026-01-01: 0 contributions</title>
+    <title>2025-12-25: 0 contributions</title>
 </rect>
 
 <rect
@@ -2752,43 +2752,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.480s">
+    <title>2026-01-01: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="461"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.495s">
     <title>2026-01-08: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="461"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.495s">
+    style="animation-delay:0.510s">
     <title>2026-01-15: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="461"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.510s">
-    <title>2026-01-22: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="461"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.525s">
-    <title>2026-01-29: 0 contributions</title>
+    <title>2026-01-22: 0 contributions</title>
 </rect>
 
 <rect
@@ -2800,7 +2800,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.540s">
-    <title>2026-02-05: 0 contributions</title>
+    <title>2026-01-29: 0 contributions</title>
 </rect>
 
 <rect
@@ -2812,7 +2812,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.555s">
-    <title>2026-02-12: 0 contributions</title>
+    <title>2026-02-05: 0 contributions</title>
 </rect>
 
 <rect
@@ -2824,7 +2824,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.570s">
-    <title>2026-02-19: 0 contributions</title>
+    <title>2026-02-12: 0 contributions</title>
 </rect>
 
 <rect
@@ -2836,43 +2836,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.495s">
+    <title>2026-02-19: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="474"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.510s">
     <title>2026-02-26: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="474"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.510s">
+    style="animation-delay:0.525s">
     <title>2026-03-05: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="474"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.525s">
-    <title>2026-03-12: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="474"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.540s">
-    <title>2026-03-19: 0 contributions</title>
+    <title>2026-03-12: 0 contributions</title>
 </rect>
 
 <rect
@@ -2884,7 +2884,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.555s">
-    <title>2026-03-26: 0 contributions</title>
+    <title>2026-03-19: 0 contributions</title>
 </rect>
 
 <rect
@@ -2896,7 +2896,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.570s">
-    <title>2026-04-02: 0 contributions</title>
+    <title>2026-03-26: 0 contributions</title>
 </rect>
 
 <rect
@@ -2908,7 +2908,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.585s">
-    <title>2026-04-09: 0 contributions</title>
+    <title>2026-04-02: 0 contributions</title>
 </rect>
 
 <rect
@@ -2920,43 +2920,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.510s">
+    <title>2026-04-09: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="487"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.525s">
     <title>2026-04-16: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="487"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.525s">
+    style="animation-delay:0.540s">
     <title>2026-04-23: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="487"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.540s">
-    <title>2026-04-30: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="487"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.555s">
-    <title>2026-05-07: 0 contributions</title>
+    <title>2026-04-30: 0 contributions</title>
 </rect>
 
 <rect
@@ -2968,7 +2968,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.570s">
-    <title>2026-05-14: 0 contributions</title>
+    <title>2026-05-07: 0 contributions</title>
 </rect>
 
 <rect
@@ -2980,7 +2980,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.585s">
-    <title>2026-05-21: 0 contributions</title>
+    <title>2026-05-14: 0 contributions</title>
 </rect>
 
 <rect
@@ -2992,7 +2992,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.600s">
-    <title>2026-05-28: 0 contributions</title>
+    <title>2026-05-21: 0 contributions</title>
 </rect>
 
 <rect
@@ -3004,43 +3004,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.525s">
+    <title>2026-05-28: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="500"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.540s">
     <title>2026-06-04: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="500"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.540s">
+    style="animation-delay:0.555s">
     <title>2026-06-11: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="500"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.555s">
-    <title>2026-06-18: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="500"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.570s">
-    <title>2026-06-25: 0 contributions</title>
+    <title>2026-06-18: 0 contributions</title>
 </rect>
 
 <rect
@@ -3052,7 +3052,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.585s">
-    <title>2026-07-02: 0 contributions</title>
+    <title>2026-06-25: 0 contributions</title>
 </rect>
 
 <rect
@@ -3064,7 +3064,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.600s">
-    <title>2026-07-09: 0 contributions</title>
+    <title>2026-07-02: 0 contributions</title>
 </rect>
 
 <rect
@@ -3076,7 +3076,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.615s">
-    <title>2026-07-16: 0 contributions</title>
+    <title>2026-07-09: 0 contributions</title>
 </rect>
 
 <rect
@@ -3088,43 +3088,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.540s">
+    <title>2026-07-16: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="513"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.555s">
     <title>2026-07-23: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="513"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.555s">
+    style="animation-delay:0.570s">
     <title>2026-07-30: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="513"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.570s">
-    <title>2026-08-06: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="513"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.585s">
-    <title>2026-08-13: 0 contributions</title>
+    <title>2026-08-06: 0 contributions</title>
 </rect>
 
 <rect
@@ -3136,7 +3136,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.600s">
-    <title>2026-08-20: 0 contributions</title>
+    <title>2026-08-13: 0 contributions</title>
 </rect>
 
 <rect
@@ -3148,7 +3148,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.615s">
-    <title>2026-08-27: 0 contributions</title>
+    <title>2026-08-20: 0 contributions</title>
 </rect>
 
 <rect
@@ -3160,7 +3160,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.630s">
-    <title>2026-09-03: 0 contributions</title>
+    <title>2026-08-27: 0 contributions</title>
 </rect>
 
 <rect
@@ -3172,43 +3172,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.555s">
+    <title>2026-09-03: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="526"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.570s">
     <title>2026-09-10: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="526"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.570s">
+    style="animation-delay:0.585s">
     <title>2026-09-17: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="526"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.585s">
-    <title>2025-09-26: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="526"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.600s">
-    <title>2025-10-03: 0 contributions</title>
+    <title>2025-09-26: 0 contributions</title>
 </rect>
 
 <rect
@@ -3220,7 +3220,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.615s">
-    <title>2025-10-10: 0 contributions</title>
+    <title>2025-10-03: 0 contributions</title>
 </rect>
 
 <rect
@@ -3232,7 +3232,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.630s">
-    <title>2025-10-17: 0 contributions</title>
+    <title>2025-10-10: 0 contributions</title>
 </rect>
 
 <rect
@@ -3244,7 +3244,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.645s">
-    <title>2025-10-24: 0 contributions</title>
+    <title>2025-10-17: 0 contributions</title>
 </rect>
 
 <rect
@@ -3256,43 +3256,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.570s">
+    <title>2025-10-24: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="539"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.585s">
     <title>2025-10-31: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="539"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.585s">
+    style="animation-delay:0.600s">
     <title>2025-11-07: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="539"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.600s">
-    <title>2025-11-14: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="539"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.615s">
-    <title>2025-11-21: 0 contributions</title>
+    <title>2025-11-14: 0 contributions</title>
 </rect>
 
 <rect
@@ -3304,7 +3304,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.630s">
-    <title>2025-11-28: 0 contributions</title>
+    <title>2025-11-21: 0 contributions</title>
 </rect>
 
 <rect
@@ -3316,7 +3316,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.645s">
-    <title>2025-12-05: 0 contributions</title>
+    <title>2025-11-28: 0 contributions</title>
 </rect>
 
 <rect
@@ -3328,7 +3328,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.660s">
-    <title>2025-12-12: 0 contributions</title>
+    <title>2025-12-05: 0 contributions</title>
 </rect>
 
 <rect
@@ -3340,43 +3340,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.585s">
+    <title>2025-12-12: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="552"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.600s">
     <title>2025-12-19: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="552"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.600s">
+    style="animation-delay:0.615s">
     <title>2025-12-26: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="552"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.615s">
-    <title>2026-01-02: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="552"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.630s">
-    <title>2026-01-09: 0 contributions</title>
+    <title>2026-01-02: 0 contributions</title>
 </rect>
 
 <rect
@@ -3388,7 +3388,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.645s">
-    <title>2026-01-16: 0 contributions</title>
+    <title>2026-01-09: 0 contributions</title>
 </rect>
 
 <rect
@@ -3400,7 +3400,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.660s">
-    <title>2026-01-23: 0 contributions</title>
+    <title>2026-01-16: 0 contributions</title>
 </rect>
 
 <rect
@@ -3412,7 +3412,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.675s">
-    <title>2026-01-30: 0 contributions</title>
+    <title>2026-01-23: 0 contributions</title>
 </rect>
 
 <rect
@@ -3424,43 +3424,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.600s">
+    <title>2026-01-30: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="565"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.615s">
     <title>2026-02-06: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="565"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.615s">
+    style="animation-delay:0.630s">
     <title>2026-02-13: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="565"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.630s">
-    <title>2026-02-20: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="565"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.645s">
-    <title>2026-02-27: 0 contributions</title>
+    <title>2026-02-20: 0 contributions</title>
 </rect>
 
 <rect
@@ -3472,7 +3472,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.660s">
-    <title>2026-03-06: 0 contributions</title>
+    <title>2026-02-27: 0 contributions</title>
 </rect>
 
 <rect
@@ -3484,7 +3484,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.675s">
-    <title>2026-03-13: 0 contributions</title>
+    <title>2026-03-06: 0 contributions</title>
 </rect>
 
 <rect
@@ -3496,7 +3496,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.690s">
-    <title>2026-03-20: 0 contributions</title>
+    <title>2026-03-13: 0 contributions</title>
 </rect>
 
 <rect
@@ -3508,43 +3508,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.615s">
+    <title>2026-03-20: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="578"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.630s">
     <title>2026-03-27: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="578"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.630s">
+    style="animation-delay:0.645s">
     <title>2026-04-03: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="578"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.645s">
-    <title>2026-04-10: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="578"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.660s">
-    <title>2026-04-17: 0 contributions</title>
+    <title>2026-04-10: 0 contributions</title>
 </rect>
 
 <rect
@@ -3556,7 +3556,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.675s">
-    <title>2026-04-24: 0 contributions</title>
+    <title>2026-04-17: 0 contributions</title>
 </rect>
 
 <rect
@@ -3568,7 +3568,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.690s">
-    <title>2026-05-01: 0 contributions</title>
+    <title>2026-04-24: 0 contributions</title>
 </rect>
 
 <rect
@@ -3580,7 +3580,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.705s">
-    <title>2026-05-08: 0 contributions</title>
+    <title>2026-05-01: 0 contributions</title>
 </rect>
 
 <rect
@@ -3592,43 +3592,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.630s">
+    <title>2026-05-08: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="591"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.645s">
     <title>2026-05-15: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="591"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.645s">
+    style="animation-delay:0.660s">
     <title>2026-05-22: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="591"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.660s">
-    <title>2026-05-29: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="591"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.675s">
-    <title>2026-06-05: 0 contributions</title>
+    <title>2026-05-29: 0 contributions</title>
 </rect>
 
 <rect
@@ -3640,7 +3640,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.690s">
-    <title>2026-06-12: 0 contributions</title>
+    <title>2026-06-05: 0 contributions</title>
 </rect>
 
 <rect
@@ -3652,7 +3652,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.705s">
-    <title>2026-06-19: 0 contributions</title>
+    <title>2026-06-12: 0 contributions</title>
 </rect>
 
 <rect
@@ -3664,7 +3664,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.720s">
-    <title>2026-06-26: 0 contributions</title>
+    <title>2026-06-19: 0 contributions</title>
 </rect>
 
 <rect
@@ -3676,43 +3676,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.645s">
+    <title>2026-06-26: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="604"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.660s">
     <title>2026-07-03: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="604"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.660s">
+    style="animation-delay:0.675s">
     <title>2026-07-10: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="604"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.675s">
-    <title>2026-07-17: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="604"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.690s">
-    <title>2026-07-24: 0 contributions</title>
+    <title>2026-07-17: 0 contributions</title>
 </rect>
 
 <rect
@@ -3724,7 +3724,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.705s">
-    <title>2026-07-31: 0 contributions</title>
+    <title>2026-07-24: 0 contributions</title>
 </rect>
 
 <rect
@@ -3736,7 +3736,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.720s">
-    <title>2026-08-07: 0 contributions</title>
+    <title>2026-07-31: 0 contributions</title>
 </rect>
 
 <rect
@@ -3748,7 +3748,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.735s">
-    <title>2026-08-14: 0 contributions</title>
+    <title>2026-08-07: 0 contributions</title>
 </rect>
 
 <rect
@@ -3760,43 +3760,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.660s">
+    <title>2026-08-14: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="617"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.675s">
     <title>2026-08-21: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="617"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.675s">
+    style="animation-delay:0.690s">
     <title>2026-08-28: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="617"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.690s">
-    <title>2026-09-04: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="617"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.705s">
-    <title>2026-09-11: 0 contributions</title>
+    <title>2026-09-04: 0 contributions</title>
 </rect>
 
 <rect
@@ -3808,7 +3808,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.720s">
-    <title>2026-09-18: 0 contributions</title>
+    <title>2026-09-11: 0 contributions</title>
 </rect>
 
 <rect
@@ -3820,7 +3820,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.735s">
-    <title>2025-09-27: 0 contributions</title>
+    <title>2026-09-18: 0 contributions</title>
 </rect>
 
 <rect
@@ -3832,7 +3832,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.750s">
-    <title>2025-10-04: 0 contributions</title>
+    <title>2025-09-27: 0 contributions</title>
 </rect>
 
 <rect
@@ -3844,43 +3844,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.675s">
+    <title>2025-10-04: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="630"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.690s">
     <title>2025-10-11: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="630"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.690s">
+    style="animation-delay:0.705s">
     <title>2025-10-18: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="630"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.705s">
-    <title>2025-10-25: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="630"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.720s">
-    <title>2025-11-01: 0 contributions</title>
+    <title>2025-10-25: 0 contributions</title>
 </rect>
 
 <rect
@@ -3892,7 +3892,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.735s">
-    <title>2025-11-08: 0 contributions</title>
+    <title>2025-11-01: 0 contributions</title>
 </rect>
 
 <rect
@@ -3904,7 +3904,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.750s">
-    <title>2025-11-15: 0 contributions</title>
+    <title>2025-11-08: 0 contributions</title>
 </rect>
 
 <rect
@@ -3916,7 +3916,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.765s">
-    <title>2025-11-22: 0 contributions</title>
+    <title>2025-11-15: 0 contributions</title>
 </rect>
 
 <rect
@@ -3928,43 +3928,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.690s">
+    <title>2025-11-22: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="643"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.705s">
     <title>2025-11-29: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="643"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.705s">
+    style="animation-delay:0.720s">
     <title>2025-12-06: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="643"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.720s">
-    <title>2025-12-13: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="643"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.735s">
-    <title>2025-12-20: 0 contributions</title>
+    <title>2025-12-13: 0 contributions</title>
 </rect>
 
 <rect
@@ -3976,7 +3976,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.750s">
-    <title>2025-12-27: 0 contributions</title>
+    <title>2025-12-20: 0 contributions</title>
 </rect>
 
 <rect
@@ -3988,7 +3988,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.765s">
-    <title>2026-01-03: 0 contributions</title>
+    <title>2025-12-27: 0 contributions</title>
 </rect>
 
 <rect
@@ -4000,7 +4000,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.780s">
-    <title>2026-01-10: 0 contributions</title>
+    <title>2026-01-03: 0 contributions</title>
 </rect>
 
 <rect
@@ -4012,43 +4012,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.705s">
+    <title>2026-01-10: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="656"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.720s">
     <title>2026-01-17: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="656"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.720s">
+    style="animation-delay:0.735s">
     <title>2026-01-24: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="656"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.735s">
-    <title>2026-01-31: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="656"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.750s">
-    <title>2026-02-07: 0 contributions</title>
+    <title>2026-01-31: 0 contributions</title>
 </rect>
 
 <rect
@@ -4060,7 +4060,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.765s">
-    <title>2026-02-14: 0 contributions</title>
+    <title>2026-02-07: 0 contributions</title>
 </rect>
 
 <rect
@@ -4072,7 +4072,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.780s">
-    <title>2026-02-21: 0 contributions</title>
+    <title>2026-02-14: 0 contributions</title>
 </rect>
 
 <rect
@@ -4084,7 +4084,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.795s">
-    <title>2026-02-28: 0 contributions</title>
+    <title>2026-02-21: 0 contributions</title>
 </rect>
 
 <rect
@@ -4096,43 +4096,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.720s">
+    <title>2026-02-28: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="669"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.735s">
     <title>2026-03-07: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="669"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.735s">
+    style="animation-delay:0.750s">
     <title>2026-03-14: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="669"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.750s">
-    <title>2026-03-21: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="669"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.765s">
-    <title>2026-03-28: 0 contributions</title>
+    <title>2026-03-21: 0 contributions</title>
 </rect>
 
 <rect
@@ -4144,7 +4144,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.780s">
-    <title>2026-04-04: 0 contributions</title>
+    <title>2026-03-28: 0 contributions</title>
 </rect>
 
 <rect
@@ -4156,7 +4156,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.795s">
-    <title>2026-04-11: 0 contributions</title>
+    <title>2026-04-04: 0 contributions</title>
 </rect>
 
 <rect
@@ -4168,7 +4168,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.810s">
-    <title>2026-04-18: 0 contributions</title>
+    <title>2026-04-11: 0 contributions</title>
 </rect>
 
 <rect
@@ -4180,43 +4180,43 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.735s">
+    <title>2026-04-18: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="682"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.750s">
     <title>2026-04-25: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="682"
-    y="88"
+    y="101"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
-    style="animation-delay:0.750s">
+    style="animation-delay:0.765s">
     <title>2026-05-02: 0 contributions</title>
 </rect>
 
 <rect
     class="cell"
     x="682"
-    y="101"
-    width="10"
-    height="10"
-    rx="2"
-    fill="#161b22"
-    style="animation-delay:0.765s">
-    <title>2026-05-09: 0 contributions</title>
-</rect>
-
-<rect
-    class="cell"
-    x="682"
     y="114"
     width="10"
     height="10"
     rx="2"
     fill="#161b22"
     style="animation-delay:0.780s">
-    <title>2026-05-16: 0 contributions</title>
+    <title>2026-05-09: 0 contributions</title>
 </rect>
 
 <rect
@@ -4228,7 +4228,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.795s">
-    <title>2026-05-23: 0 contributions</title>
+    <title>2026-05-16: 0 contributions</title>
 </rect>
 
 <rect
@@ -4240,7 +4240,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.810s">
-    <title>2026-05-30: 0 contributions</title>
+    <title>2026-05-23: 0 contributions</title>
 </rect>
 
 <rect
@@ -4252,7 +4252,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.825s">
-    <title>2026-06-06: 0 contributions</title>
+    <title>2026-05-30: 0 contributions</title>
 </rect>
 
 <rect
@@ -4264,7 +4264,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.750s">
-    <title>2026-06-13: 0 contributions</title>
+    <title>2026-06-06: 0 contributions</title>
 </rect>
 
 <rect
@@ -4276,7 +4276,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.765s">
-    <title>2026-06-20: 0 contributions</title>
+    <title>2026-06-13: 0 contributions</title>
 </rect>
 
 <rect
@@ -4288,7 +4288,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.780s">
-    <title>2026-06-27: 0 contributions</title>
+    <title>2026-06-20: 0 contributions</title>
 </rect>
 
 <rect
@@ -4300,7 +4300,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.795s">
-    <title>2026-07-04: 0 contributions</title>
+    <title>2026-06-27: 0 contributions</title>
 </rect>
 
 <rect
@@ -4312,7 +4312,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.810s">
-    <title>2026-07-11: 0 contributions</title>
+    <title>2026-07-04: 0 contributions</title>
 </rect>
 
 <rect
@@ -4324,7 +4324,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.825s">
-    <title>2026-07-18: 0 contributions</title>
+    <title>2026-07-11: 0 contributions</title>
 </rect>
 
 <rect
@@ -4336,7 +4336,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.840s">
-    <title>2026-07-25: 0 contributions</title>
+    <title>2026-07-18: 0 contributions</title>
 </rect>
 
 <rect
@@ -4348,7 +4348,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.765s">
-    <title>2026-08-01: 0 contributions</title>
+    <title>2026-07-25: 0 contributions</title>
 </rect>
 
 <rect
@@ -4360,7 +4360,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.780s">
-    <title>2026-08-08: 0 contributions</title>
+    <title>2026-08-01: 0 contributions</title>
 </rect>
 
 <rect
@@ -4372,7 +4372,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.795s">
-    <title>2026-08-15: 0 contributions</title>
+    <title>2026-08-08: 0 contributions</title>
 </rect>
 
 <rect
@@ -4384,7 +4384,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.810s">
-    <title>2026-08-22: 0 contributions</title>
+    <title>2026-08-15: 0 contributions</title>
 </rect>
 
 <rect
@@ -4396,7 +4396,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.825s">
-    <title>2026-08-29: 0 contributions</title>
+    <title>2026-08-22: 0 contributions</title>
 </rect>
 
 <rect
@@ -4408,7 +4408,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.840s">
-    <title>2026-09-05: 0 contributions</title>
+    <title>2026-08-29: 0 contributions</title>
 </rect>
 
 <rect
@@ -4420,7 +4420,7 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.855s">
-    <title>2026-09-12: 0 contributions</title>
+    <title>2026-09-05: 0 contributions</title>
 </rect>
 
 <rect
@@ -4432,6 +4432,18 @@ viewBox="0 0 860 220">
     rx="2"
     fill="#161b22"
     style="animation-delay:0.780s">
+    <title>2026-09-12: 0 contributions</title>
+</rect>
+
+<rect
+    class="cell"
+    x="721"
+    y="88"
+    width="10"
+    height="10"
+    rx="2"
+    fill="#161b22"
+    style="animation-delay:0.795s">
     <title>2026-09-19: 0 contributions</title>
 </rect>
 
